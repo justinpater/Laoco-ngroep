@@ -1,0 +1,22 @@
+h1 { border-radius:10px;
+     border: 10px solid #6495Ed;
+     background-color: #BCD2EE;
+     height: 50px;
+     width: 1570px;
+     margin: auto;
+     text-align: center;
+}
+
+div { border-radius:10px;
+      border: 1px solid;
+      background-color: #C8C8C8;
+      height: 2000px;
+      width: 1570px;
+      margin:auto;
+}
+
+img { float: right;
+}
+
+
+     
